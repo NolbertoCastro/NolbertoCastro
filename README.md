@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source proyects, and web development
 - 🤔 I’m looking for help with UX/UI design.
 - 📫 How to reach me: nolber0703@gmail.com
-- 😄 Pronouns: Nolberto, Nolbe
-- ⚡ Fun fact: Yellow us my favorite color 💛 
+- 😄 Pronouns: Nolberto, Nolbe, Yellow Jesus Christ
+- ⚡ Fun fact: Yellow us my favorite color😅💛 
