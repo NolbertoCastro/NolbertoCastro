@@ -1,5 +1,4 @@
-
-### Hi there <h1 style="color:yellow;">I'm Nolberto</h1> 👋
+### Hi there <h1 color="#ffce00">I'm Nolberto</h1> 👋
 
 I'm from Sinaloa, Mexico but i'm living in Guadalajara.
 <!--
