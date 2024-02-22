@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift, Linux, C++
 - 👯 I’m looking to collaborate on open source proyects, and web development
 - 🤔 I’m looking for help with UX/UI design.
-- 📫 How to reach me: nolber0703@gmail.com
+- 📫 How to reach me: [contact@nolbertocastro.com]
 
 <h3>Contact me:</h3>
 
