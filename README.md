@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with UX/UI design.
 - 📫 How to reach me: contact@nolbertocastro.com
 
-<h3>Contact me:</h3>
+# 📊 GitHub Stats:
 
-<p align="center">
-<a href="https://github.com/NolbertoCastro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NolbertoCastro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NolbertoCastro&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NolbertoCastro&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NolbertoCastro&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NolbertoCastro&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NolbertoCastro&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
