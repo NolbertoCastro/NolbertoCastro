@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=1Tai7&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NolbertoCastro&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
