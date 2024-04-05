@@ -1,6 +1,4 @@
-### <h1> Hi there <b color="#ffce00">I'm Nolberto 👋</b></h1> 
-
-[![](https://visitcount.itsvg.in/api?id=NolbertoCastro&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+### <h1> Hi there <b color="#ffce00">I'm Nolberto 👋</b> [![](https://visitcount.itsvg.in/api?id=NolbertoCastro&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) </h1> 
 
 I'm from Sinaloa, Mexico but i'm living in Guadalajara.
 <!--
