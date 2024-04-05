@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NolbertoCastro&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
