@@ -1,5 +1,7 @@
 ### <h1> Hi there <b color="#ffce00">I'm Nolberto</b></h1> 👋
 
+[![](https://visitcount.itsvg.in/api?id=NolbertoCastro&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 I'm from Sinaloa, Mexico but i'm living in Guadalajara.
 <!--
 **NolbertoCastro/NolbertoCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +23,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=NolbertoCastro&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NolbertoCastro&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
